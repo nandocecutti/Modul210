@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    font-size: 4rem;
+}
+
+h3{
+    font-size: 2.3rem;
+}
+
+li{
+    font-size: 1.5rem;
+}
+
+body {
+    background-image: url('Cloud.jpg');
+    background-size: cover;
+}
